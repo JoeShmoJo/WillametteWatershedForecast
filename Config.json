@@ -1,137 +1,90 @@
 {
-    "Wind_at_Carson": {
-    "state": "WA",
-    "latitude": 45.72657,
-    "longitude": -121.79428,
+    "Santiam_at_JFFO": {
+    "state": "OR",
+    "latitude": 44.71472,
+    "longitude": -123.01425,
     "gages": [
       {
-        "name": "Carson",
-        "state": "WA",
-        "latitude": 45.72657,
-        "longitude": -121.79428,
+        "name": "JFFO",
+        "state": "OR",
+        "latitude": 44.71458,
+        "longitude": -123.01377,
         "service": "USGS",
-        "site_id": "14128500",
+        "site_id": "14189000",
         "type": "FLOW"
       },
       {
-        "name": "Stabler",
-        "state": "WA",
-        "latitude": 45.72657,
-        "longitude": -121.79428,
-        "service": "WA_Ecology",
-        "site_id": "29C100",
+        "name": "WTLO",
+        "state": "OR",
+        "latitude": 44.49846,
+        "longitude": -122.82342,
+        "service": "USGS",
+        "site_id": "14187500",
+        "type": "FLOW"
+      },
+      {
+        "name": "MEHO",
+        "state": "OR",
+        "latitude": 44.78925,
+        "longitude": -122.61881,
+        "service": "USGS",
+        "site_id": "14183000",
+        "type": "FLOW"
+      },
+      {
+        "name": "LSMO",
+        "state": "OR",
+        "latitude": 44.79151,
+        "longitude": -122.578974,
+        "service": "USGS",
+        "site_id": "14182500",
         "type": "FLOW"
       }
     ],
     "subbasins": {
-      "Trout": {
-        "state": "WA",
-        "latitude": 45.79853,
-        "longitude": -121.90676,
+      "MEHO": {
+        "state": "OR",
+        "latitude": 44.7886312,
+        "longitude": -122.61799213,
         "gages": []
       },
-      "Panther": {
-        "state": "WA",
-        "latitude": 45.76140,
-        "longitude": -121.83134,
+      "WTLO": {
+        "state": "OR",
+        "latitude": 44.4993023,
+        "longitude": -122.8227092,
+        "gages": []
+      },
+      "BCLO": {
+        "state": "OR",
+        "latitude": 44.750849,
+        "longitude": -122.2833197,
+        "gages": []
+      },
+      "FOSO": {
+        "state": "OR",
+        "latitude": 44.4159411,
+        "longitude": -122.6708569,
+        "gages": []
+      },
+      "DETO": {
+        "state": "OR",
+        "latitude": 44.72175346,
+        "longitude": -122.2511824,
+        "gages": []
+      },
+      "GPRO": {
+        "state": "OR",
+        "latitude": 44.4469348,
+        "longitude": -122.5488299,
+        "gages": []
+      },
+      "LSMO": {
+        "state": "OR",
+        "latitude": 44.79151,
+        "longitude": -122.578974,
         "gages": []
       }
     }
-  },
-    "Shoug_at_Hathaway": {
-    "state": "WA",
-    "latitude": 45.58463,
-    "longitude": -122.34090,
-    "gages": [
-      {
-        "name": "Washougal",
-        "state": "WA",
-        "latitude": 45.58463,
-        "longitude": -122.34090,
-        "service": "USGS",
-        "site_id": "14143500",
-        "type": "FLOW"
-      },
-      {
-        "name": "Hathaway",
-        "state": "WA",
-        "latitude": 45.58463,
-        "longitude": -122.34090,
-        "service": "WA_Ecology",
-        "site_id": "28B080",
-        "type": "FLOW"
-      }
-    ],
-    "subbasins": {
-      "Hagen": {
-        "state": "WA",
-        "latitude": 45.68464,
-        "longitude": -122.24344,
-        "gages": []
-      },
-      "WF_Shoug": {
-        "state": "WA",
-        "latitude": 45.61335,
-        "longitude": -122.21936,
-        "gages": []
-      },
-      "Stebbins": {
-        "state": "WA",
-        "latitude": 45.69113,
-        "longitude": -122.12143,
-        "gages": []
-      }
-    }
-  },
-
-  "Canyon_Creek_WA": {
-    "state": "WA",
-    "latitude": 45.9404,
-    "longitude": -122.3226,
-    "gages": [
-      {
-        "name": "Amboy",
-        "state": "WA",
-        "latitude": 45.9404,
-        "longitude": -122.3226,
-        "service": "USGS",
-        "site_id": "14219000",
-        "type": "FLOW"
-      }
-    ]
-  },
-  "Ldub_at_Hatchery": {
-    "state": "WA",
-    "latitude": 45.765300,
-    "longitude": -121.630594,
-    "gages": [
-            {
-        "name": "Hatchery",
-        "state": "WA",
-        "latitude": 45.630594,
-        "longitude": -122.630594,
-        "service": "NOAA",
-        "site_id": "LWWW1",
-        "type": "STAGE"
-      }
-    ]
-  },
-
-  "WS_at_Husum": {
-    "state": "WA",
-    "latitude": 45.7978,
-    "longitude": -121.4862,
-    "gages": [
-      {
-        "name": "Underwood",
-        "state": "WA",
-        "latitude": 45.7978,
-        "longitude": -121.4862,
-        "service": "USGS",
-        "site_id": "14123500",
-        "type": "FLOW"
-      }
-    ]
   }
 
 
